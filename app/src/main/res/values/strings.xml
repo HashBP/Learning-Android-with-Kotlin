@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailApp</string>
+    <string name="To">Title</string>
+    <string name="From">From</string>
+    <string name="Content">Content</string>
+    <string name="btn_send">Send</string>
+</resources>
